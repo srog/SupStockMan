@@ -1,0 +1,24 @@
+Phase 1:
+-------
+
+1. Home Page
+2. Menu links to pages
+3. Supplier Page with list of suppliers
+4. Product Page with list of products
+5. Stock Page with list of stock (products, quantities)
+
+Supplier Details: 
+  Name
+  Address
+  Phone
+  Email
+  Vat No
+  
+ Product Details:
+  SKU / Id
+  Name
+  Description
+  Category / Group
+
+
+  
